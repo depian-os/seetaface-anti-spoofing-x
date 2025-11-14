@@ -1,0 +1,21 @@
+seetaface-anti-spoofing-x (1.0.0.2-1+dde) UNRELEASED; urgency=medium
+
+  [ chenlinxuan ]
+  * Fix conflict files with seetaface-boxes
+
+  [ likier ]
+  * update
+
+ -- likier <likier@sina.cn>  Thu, 28 Apr 2022 20:22:14 +0800
+
+seetaface-anti-spoofing-x (1.0.0.1-1+dde) unstable; urgency=medium
+
+  * Fix build issues
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Thu, 09 Dec 2021 19:30:16 +0800
+
+seetaface-anti-spoofing-x (1.0.0-1) unstable; urgency=medium
+
+  * Initial release 
+
+ -- liujianqing <liujianqiang@uniontech.com>  Fri, 03 Dec 2021 17:08:50 +0800
